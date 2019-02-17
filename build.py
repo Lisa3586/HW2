@@ -2,7 +2,7 @@
 
 
 
-print ('hello')
+print ('hello world')
 
 top_html = open('templates/top.html').read()
 bottom_html = open('templates/bottom.html').read()
